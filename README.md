@@ -11,10 +11,11 @@ THEN they fall in sequential order<br>
 WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 
-Home Page: https://mooka0.github.io/horiseon-challenge/
+Home Page: https://mooka0.github.io/horiseon-challenge/<br>
 <img src="./Develop/assets/images/horiseon-1.png"/>
 <img src="./Develop/assets/images/horiseon-2.png"/>
 <img src="./Develop/assets/images/horiseon-3.png"/>
+
 ## Setup
 ```
 git clone https://github.com/mooka0/horiseon-challenge.git
